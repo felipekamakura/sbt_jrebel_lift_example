@@ -1,0 +1,5 @@
+lift_proto.db.h2.db
+lib_managed
+target
+project/build/target
+project/boot
